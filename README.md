@@ -1,0 +1,2 @@
+# config
+My shell configuration 
